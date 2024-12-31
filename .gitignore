@@ -1,0 +1,45 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\.factorypath
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\.project
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\HELP.md
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\mvnw
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\mvnw.cmd
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\pom.xml
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\.mvn
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\.settings
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\target
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\.classpath
+c:\Users\Vishnu Reddy\Desktop\JRTP\JRTP_Reports_App_15\.gitattributes
